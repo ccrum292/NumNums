@@ -1,0 +1,23 @@
+{
+  "name": "numnums",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccrum292/NumNums.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccrum292/NumNums/issues"
+  },
+  "homepage": "https://github.com/ccrum292/NumNums#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
